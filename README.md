@@ -40,20 +40,12 @@ Core Technologies
 - Built CI/CD pipelines to push configurations across multiple client environments
 - Ensured consistent and repeatable deployments at scale
 - Reduced manual configuration and improved deployment efficiency
-- <img width="692" height="409" alt="image" src="https://github.com/user-attachments/assets/18ef4070-2e29-43ad-a2ee-4f1409bcb666" />
-
-
----
 
   Multi-Tenant Security Management
 - Leveraged Azure Lighthouse for centralized visibility and management across client tenants
 - Standardized security configurations and monitoring across environments
 - Improved operational efficiency for SOC and engineering teams
- <img width="628" height="535" alt="image" src="https://github.com/user-attachments/assets/817bdf5b-2fd6-4f21-a9ee-78bffced81a0" />
-
-<img width="1667" height="653" alt="lighthouse tenant" src="https://github.com/user-attachments/assets/1c191390-cccf-4ada-af5b-a987adaf2a7f" />
-
-
+- 
 
 ** Cloud Security & CASB Consulting**
 - Advised clients on securing SaaS environments using Defender for Cloud Apps
