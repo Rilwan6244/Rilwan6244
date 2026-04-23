@@ -47,4 +47,6 @@ Core Technologies
 - Leveraged Azure Lighthouse for centralized visibility and management across client tenants
 - Standardized security configurations and monitoring across environments
 - Improved operational efficiency for SOC and engineering teams
+- <img width="628" height="535" alt="image" src="https://github.com/user-attachments/assets/817bdf5b-2fd6-4f21-a9ee-78bffced81a0" />
+
 <img width="1667" height="653" alt="lighthouse tenant" src="https://github.com/user-attachments/assets/1c191390-cccf-4ada-af5b-a987adaf2a7f" />
