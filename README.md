@@ -9,3 +9,19 @@ In my role, I:
 - Monitor and respond to security incidents in a SOC environment
 
 I bridge the gap between security operations and security architecture, ensuring both detection and prevention are effectively implemented.
+
+What i do
+- Provide cybersecurity consultancy to clients
+- Design and implement security solutions across Microsoft technologies
+- Perform full SOC onboarding for new clients
+- Lead and support migrations to Microsoft Sentinel & Defender XDR
+- Monitor and respond to security incidents
+
+---
+
+Core Technologies
+- Microsoft Sentinel (KQL, Detection Engineering)
+- Microsoft Defender XDR (Endpoint, Identity, Cloud Apps)
+- Entra ID (Conditional Access, Identity Protection)
+- Microsoft Intune
+- Microsoft Defender for Office 365
