@@ -40,6 +40,8 @@ Core Technologies
 - Built CI/CD pipelines to push configurations across multiple client environments
 - Ensured consistent and repeatable deployments at scale
 - Reduced manual configuration and improved deployment efficiency
+- <img width="692" height="409" alt="image" src="https://github.com/user-attachments/assets/18ef4070-2e29-43ad-a2ee-4f1409bcb666" />
+
 
 ---
 
