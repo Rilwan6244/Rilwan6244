@@ -25,3 +25,25 @@ Core Technologies
 - Entra ID (Conditional Access, Identity Protection)
 - Microsoft Intune
 - Microsoft Defender for Office 365
+
+ Project & Implementation
+ 
+ Scalable Microsoft Sentinel Onboarding (Multi-Client)
+- Onboarded multiple clients into Microsoft Sentinel using Azure Lighthouse for centralized management
+- Designed and deployed standardized SOC environments across tenants
+- Configured data connectors, analytic rules, and workbooks for multiple clients
+
+---
+
+ Detection Engineering via DevOps (CI/CD)
+- Developed and deployed analytics rules and watchlists using Visual Studio Code and Azure DevOps
+- Built CI/CD pipelines to push configurations across multiple client environments
+- Ensured consistent and repeatable deployments at scale
+- Reduced manual configuration and improved deployment efficiency
+
+---
+
+  Multi-Tenant Security Management
+- Leveraged Azure Lighthouse for centralized visibility and management across client tenants
+- Standardized security configurations and monitoring across environments
+- Improved operational efficiency for SOC and engineering teams
