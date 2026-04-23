@@ -52,3 +52,24 @@ Core Technologies
 - <img width="628" height="535" alt="image" src="https://github.com/user-attachments/assets/817bdf5b-2fd6-4f21-a9ee-78bffced81a0" />
 
 <img width="1667" height="653" alt="lighthouse tenant" src="https://github.com/user-attachments/assets/1c191390-cccf-4ada-af5b-a987adaf2a7f" />
+
+ Cloud Security & CASB Consulting
+- Advised clients on securing SaaS environments using Defender for Cloud Apps
+- Created policies and also help with sanctioning and unsanction of apps according to agreement with clients and baseline. 
+- Identified shadow IT and risky OAuth applications
+- Enhanced visibility and control over cloud application usage
+
+  Identity & Access Security (Entra ID)
+- Designed Conditional Access policies / Named location for secure authentication
+- AEntra ID hardening
+- Investigated and responded to identity-related threats
+
+  Endpoint Security & Management (Intune)
+- Designed and implemented endpoint security and compliance strategies (Attack surface reduction, Antivirus polices) etc
+- Deployed security baselines and device control policies
+- Added defender for endpoint agent to devices
+
+  Incident Response & SOC Operations
+- Led and supported incident investigations across multiple clients
+- Performed root cause analysis and provided remediation guidance
+- Advised on improving detection logic and reducing false positives
