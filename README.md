@@ -30,7 +30,7 @@ Core Technologies
 - Microsoft Defender for Office 365
 
   
-
+👉 [View Project Screenshots](#-samples-of-personal-projects)
  Project & Implementation
  
  Scalable Microsoft Sentinel Onboarding (Multi-Client)
@@ -73,6 +73,8 @@ Core Technologies
 - Designed and implemented endpoint security and compliance strategies (Attack surface reduction, Antivirus polices) etc
 - Deployed security baselines and device control policies
 - Added defender for endpoint agent to devices
+
+- 
   
 ---
 
@@ -81,3 +83,6 @@ Core Technologies
 - Led and supported incident investigations across multiple clients
 - Performed root cause analysis and provided remediation guidance
 - Advised on improving detection logic and reducing false positives
+
+
+## 📸 Samples of Personal Projects
