@@ -1,7 +1,7 @@
 Hi, I'm Rilwan
 
 
-A Cybersecurity Engineer & Consultant with hands-on experience across security operations, engineering, and client advisory. 
+A Cybersecurity Engineer with hands-on experience across security operations, engineering, and client advisory. 
 I work in a hybrid role, combining SOC monitoring with the design, implementation, and optimization of security solutions.
 
 In my role, I:
@@ -29,6 +29,8 @@ Core Technologies
 - Microsoft Intune
 - Microsoft Defender for Office 365
 
+  
+
  Project & Implementation
  
  Scalable Microsoft Sentinel Onboarding (Multi-Client)
@@ -48,28 +50,34 @@ Core Technologies
 - Leveraged Azure Lighthouse for centralized visibility and management across client tenants
 - Standardized security configurations and monitoring across environments
 - Improved operational efficiency for SOC and engineering teams
-- 
 
-** Cloud Security & CASB Consulting**
+---
+
+  Cloud Security & CASB Consulting
+  
 - Advised clients on securing SaaS environments using Defender for Cloud Apps
 - Created policies and also help with sanctioning and unsanction of apps according to agreement with clients and baseline. 
 - Identified shadow IT and risky OAuth applications
 - Enhanced visibility and control over cloud application usage
-- 
+  
+---
 
- ** Identity & Access Security (Entra ID)**
+ Identity & Access Security (Entra ID)
 - Designed Conditional Access policies / Named location for secure authentication
 - AEntra ID hardening
 - Investigated and responded to identity-related threats
-- 
+  
+---
 
-  **Endpoint Security & Management (Intune)**
+  Endpoint Security & Management (Intune)
 - Designed and implemented endpoint security and compliance strategies (Attack surface reduction, Antivirus polices) etc
 - Deployed security baselines and device control policies
 - Added defender for endpoint agent to devices
-- 
+  
+---
 
-  **Incident Response & SOC Operations**
+  Incident Response & SOC Operations
+  
 - Led and supported incident investigations across multiple clients
 - Performed root cause analysis and provided remediation guidance
 - Advised on improving detection logic and reducing false positives
